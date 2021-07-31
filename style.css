@@ -194,15 +194,15 @@ h4
 
 
   flex-direction: column;
-flex-wrap: wrap;
-align-content: stretch;
-justify-content: center;
-background-position: left;
-background-position-x: revert;
-background: border-box;
-width: 200px;
-height: 100px;
-display: inline-flex;
+  flex-wrap: wrap;
+  align-content: stretch;
+  justify-content: center;
+  background-position: left;
+  background-position-x: revert;
+  background: border-box;
+  width: 200px;
+  height: 100px;
+  display: inline-flex;
 }
 .cards
 {
