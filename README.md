@@ -15,4 +15,4 @@ OR
 - open index.html in your browser.
 
 ## Live Link:
-https://github.com/Hamza-Sajid/Recepie-App
+https://hamza-sajid.github.io/Recepie-App/
